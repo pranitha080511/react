@@ -81,7 +81,7 @@ npm install
 npm run dev
 
 3. Open App
-http://localhost:5173
+
 
 🔑 User Authentication Flow
 
